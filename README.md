@@ -1,5 +1,5 @@
 # Ej1ExamenSorpresa2302
-mi repositorio es https://github.com/diegofdxz/Ej1ExamenSorpresa2302.git
+# Mi repositorio es https://github.com/diegofdxz/Ej1ExamenSorpresa2302.git
 
 
 2.1. Práctica 1. Obtención de una aproximación al
